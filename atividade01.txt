@@ -1,1 +1,6 @@
 Álvaro Henrique Leonel
+<<<<<<< main
+patrick bernardes da silva contribuicao
+=======
+patrick bernardes da silva contribuicao123
+>>>>>>> local
